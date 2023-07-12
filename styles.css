@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 10px auto;
+    width: 250px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main {
+    border: 2px solid green;
+    display: inline-block;
+    padding: 6px 10px;
+    text-align: center;
+}
+
+.lst li {
+    margin: 15px auto;
+    padding: 5px 0;
+    background-color:gainsboro;
+}
